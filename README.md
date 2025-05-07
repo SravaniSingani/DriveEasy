@@ -38,6 +38,7 @@ This repository contains a comprehensive Content Management System (CMS) built u
   - `id`: Unique identifier for the brand.
   - `brandName`: Name of the brand.
   - `brandImg`: Country of origin of the brand.
+    
 - **Operations**:
   - Create: Add a new brand to the system.
   - Read: View details of existing brands.
